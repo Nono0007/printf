@@ -6,7 +6,7 @@
 *@r: string to print
 *Return: number of chars printed
 */
-int print_rev(va_list r)
+int print_rev(va_list l, flag_t *f )
 {
 	char *st;
 	int i, j = 0;
@@ -18,7 +18,7 @@ int print_rev(va_list r)
 		;
 	for (i -= 1 ; i >= 0; i--)
 	{
-		_putchar(st[i]);
+		putchar(st[i]);
 		j++;
 	}
 	return (j);
