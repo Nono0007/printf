@@ -84,4 +84,4 @@ If an output error is encountered, a negative value (-1) is returned.
 .SH BUGS
 Report _printf Elizabeth Salako (waleade602@gmail.com), Kouam Franck Joel Gaetan (kouamfranck96@gmail.com)
 .SH AUTHORS
-Noreen Magaya and Venice Sandisiwe Nyoni, ALX Cohort 9.
+Venice Sandisiwe Nyoni and Noreen Magaya, ALX Cohort 9.
